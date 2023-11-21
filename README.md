@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harithaa</h1>
-<h3 align="center">A Student with passion for Artificial Intelligence ntelligence</h3>
+<h3 align="center">A Student with passion for Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harithaa-t1124&label=Profile%20views&color=0e75b6&style=flat" alt="harithaa-t1124" /> </p>
 
